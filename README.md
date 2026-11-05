@@ -102,5 +102,11 @@ For more information about the anime, visit:
 |---|---|
 | Anime Title | Black Clover |
 | Original Author | Yuki Tabata |
+| Release Year | 2017 |
+| Genre | Action, Fantasy, Adventure |
+| Main Character | Asta |
+| Rival | Yuno |
+| Main Kingdom | Clover Kingdom |
+| Animation Studio | Studio Pierrot |
 
 ---
